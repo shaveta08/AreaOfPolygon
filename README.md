@@ -21,10 +21,8 @@ Compilation and Execution Instructions:
 
 1.	Download or clone the file scratch.py.
 2.	Open the command prompt.
-3.	On command prompt use the following commands:
-
-3.1.	  > python scratch.py
-
-input : Vertices in form of List of lists.
-
-3.2.	  >python –c “import scratch; scratch.areaOfPolygon(input)”
+3.	On the command prompt use the following commands:
+*input : List of lists of all the vertices*
+       >python –c “import scratch; scratch.areaOfPolygon(input)”
+       
+       
